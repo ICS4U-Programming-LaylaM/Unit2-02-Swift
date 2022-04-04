@@ -1,0 +1,2 @@
+javac RecursiveFactorial.java
+java RecursiveFactorial
