@@ -17,7 +17,7 @@ func factorial(integer: Int) -> Int {
     // Calculate the factorial
     if int == 1 || int == 0 {
         factorials = 1
-    } else  {
+    } else {
         factorials = int * factorial(integer: int - 1)
     }
 
